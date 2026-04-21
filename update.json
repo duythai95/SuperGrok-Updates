@@ -1,5 +1,5 @@
 {
-  "version": 57.0,
+  "version": 58.0,
   "changelog": "- Tính năng Auto-Update đã hoạt động!\n- Fix lỗi Limit + Đa luồng ",
   "download_url": "https://github.com/duythai95/SuperGrok-Updates/releases/download/v58.0/Grok.-V58.exe"
 }
