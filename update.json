@@ -1,5 +1,5 @@
 {
-  "version": 61.0,
-  "changelog": "Fix Lỗi không tương thích Chomer.",
-  "download_url": "https://github.com/duythai95/SuperGrok-Updates/releases/download/v61.0/Grok.-V61.exe"
+  "version": 62.0,
+  "changelog": "<b>🌟 BẢN v61.0: TỐI ƯU CỐT LÕI - TỰ ĐỘNG TƯƠNG THÍCH & XỬ LÝ SIÊU TỐC</b><br><br>👉 <b>Tương Thích Chrome Tuyệt Đối:</b> Tích hợp hệ thống AI tự động quét và tải WebDriver. Khắc phục triệt để lỗi lệch phiên bản khi mang sang máy khác (đặc biệt là Chrome 147+), tool giờ đây 'bất tử' trước mọi bản cập nhật của Google.<br>👉 <b>Đóng Trình Duyệt & Dọn Rác Siêu Tốc:</b> Nâng cấp cơ chế dập tắt tiến trình ngầm bằng định danh PID (Taskkill Tree). Tắt Chrome và giải phóng RAM chớp nhoáng chưa tới 1 giây, nói không với treo máy trên cả Win 10 & Win 11.<br>👉 <b>Text To Video Pro:</b> Tích hợp thành công khay nạp ảnh tham chiếu trực tiếp vào tab Tạo Video, tự động nối biến @Tên_Ảnh cực chuẩn.<br>👉 <b>Hệ thống Trải Nghiệm (Free Trial):</b> Tự động cấp 3 ngày dùng thử cho khách hàng mới, bảo mật chặt chẽ gắn liền với Mã Máy (HWID).<br>👉 <b>Tối ưu UI/UX:</b> Menu Dropdown sáng sủa, chặn hoàn toàn các thông báo rác làm vướng víu web, mang lại trải nghiệm auto mượt mà nhất.",
+  "download_url": "https://github.com/duythai95/SuperGrok-Updates/releases/download/v62.0/Grok.-V62.exe"
 }
