@@ -1,5 +1,5 @@
 {
-  "version": 60.0,
-  "changelog": "🌟 BẢN CẬP NHẬT v60.0 - TỐI ƯU TRẢI NGHIỆM:\n\n🚀 [Tính năng mới] Hỗ trợ nạp Ảnh tham chiếu (Nhân vật/Style) trực tiếp cho Text To Video (nhận diện biến @Tên_Ảnh).\n🔄 [Nâng cấp] Cơ chế Re-run/Sửa Prompt nay đã thông minh hơn: Tự động quét và nạp lại toàn bộ ảnh tham chiếu, không lo rớt ảnh.\n🎁 [Hệ thống] Ra mắt tính năng Dùng thử (Free Trial) 3 ngày cho khách hàng mới tải, bảo mật chống gian lận qua Mã máy (HWID).\n✨ [Giao diện] Cải tiến Menu lựa chọn (Dropdown) với nền trắng chữ đen in đậm, giúp dễ nhìn và thao tác nhanh hơn.",
-  "download_url": "https://github.com/duythai95/SuperGrok-Updates/releases/download/v60.0/Grok.-V60.exe"
+  "version": 61.0,
+  "changelog": "Fix Lỗi không tương thích Chomer.",
+  "download_url": "https://github.com/duythai95/SuperGrok-Updates/releases/download/v61.0/Grok.-V61.exe"
 }
